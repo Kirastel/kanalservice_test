@@ -1,3 +1,6 @@
+### This script is designed to work with a document:
+https://docs.google.com/spreadsheets/d/1m5xOYpGZs9Oy3qS-bS23K0K-UHSMUdxBo3s7DpFV3DU/edit#gid=0
+____
 # Instructions for setting up and launching the application.
 
 Clone the repository: 
@@ -31,6 +34,7 @@ pip install -r requirements.txt
 
 Run app:
 ```
-script.py
+python3 script.py
 ```
-
+Google sheets:
+https://docs.google.com/spreadsheets/d/1m5xOYpGZs9Oy3qS-bS23K0K-UHSMUdxBo3s7DpFV3DU/edit#gid=0
